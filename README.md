@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Padmajaa</h1>
 <h3 align="center">A passionate Machine Learning enthusiant</h3>
 
-- 🔭 I’m currently working on **Image segmentation using ml and testing cryptographic algorithms for shakti processor.**
+- 🔭 I’m currently working on **Image segmentation using ML and testing cryptographic algorithms for shakti processor.**
 
 - 🌱 I’m currently learning **HPC,Deep Learning, AI and Cryptographic algorithms.**
 
-- 👯 I’m looking to collaborate on **Image Processing,Machine Learning and integration ML with cyber security.**
+- 👯 I’m looking to collaborate on **Image Processing,Machine Learning and integrating it with cyber security.**
 
 - 🤝 I’m looking for help with **Image Processing using vectors**
 
