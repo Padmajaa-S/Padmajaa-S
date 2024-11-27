@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **padmajaatms@gmail.com**
 
-- 📄 Know about my experiences [https://black-vivian-79.tiiny.site](https://black-vivian-79.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
